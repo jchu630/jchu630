@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a recent Data Science graduate at the University of Auckland, immersed in the data and AI sphere. 
+I'm a recent Data Science graduate at the University of Auckland, and I'm immersed in the data and AI sphere. 
 
-- 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities. 
-- 🌱 I'm currently learning advanced LLM techniques, cloud deployment (AWS/Azure), and deepening my expertise in statistical theory. 
+- 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities.
+- I've recently built **Echo**: an AI-powered social media simulation exploring digital echo chambers. Check it out [here](https://github.com/uoa-compsci399-2025-s1/capstone-project-2025-s1-team-17).
 - 💬 Ask me about who's winning the next NBA finals. 
 
 
@@ -11,6 +11,7 @@ I'm a recent Data Science graduate at the University of Auckland, immersed in th
 ⚡ Feel free to reach out for a chat ⚡
 
 <!--
+- 🌱 I'm currently learning advanced LLM techniques, cloud deployment (AWS/Azure), and deepening my expertise in statistical theory. 
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, Javascript
