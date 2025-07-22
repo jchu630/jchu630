@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-I'm a recent Data Science graduate from the University of Auckland, passionate about leveraging data, AI, and analytics to solve real-world problems.
+I'm a recent Data Science graduate at the University of Auckland, and I'm currently immersed in the data sphere. 
 
 - 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities. 
 - 🌱 I'm currently learning advanced LLM techniques, cloud deployment (AWS/Azure), and deepening my expertise in statistical theory. 
 - 💬 Ask me about who's winning the next NBA finals. 
+
+
+
+⚡ Feel free to reach out for a chat ⚡
+
+<!--
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, Javascript
@@ -18,9 +24,7 @@ I'm a recent Data Science graduate from the University of Auckland, passionate a
 - **BBC News Classifier**: NLP model achieving >98% accuracy using various supervised ML models
 - **Income Prediction**: Large-scale analysis using XGBoost and Random Forest
 
-📫 Feel free to reach out for a chat!
 
-<!--
 **jchu630/jchu630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
