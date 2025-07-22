@@ -8,7 +8,9 @@ I'm a recent Data Science graduate from the University of Auckland, passionate a
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, Javascript
+
 **ML/Data:** scikit-learn, pandas, TensorFlow, matplotlib, ggplot2, tidyverse 
+
 **Tools:** Git, FastAPI, PostgreSQL, LLMs, Docker
 
 ### 🎯 Recent Projects
