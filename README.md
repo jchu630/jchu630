@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a recent Data Science graduate at the University of Auckland, and I'm currently immersed in the data and AI sphere. 
+I'm a recent Data Science graduate at the University of Auckland, immersed in the data and AI sphere. 
 
 - 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities. 
 - 🌱 I'm currently learning advanced LLM techniques, cloud deployment (AWS/Azure), and deepening my expertise in statistical theory. 
