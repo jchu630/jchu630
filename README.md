@@ -4,7 +4,7 @@ I'm a recent Data Science graduate at the University of Auckland, and I'm immers
 
 - 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities.
 - I've recently built **Echo**: an AI-powered social media simulation exploring digital echo chambers. Check it out [here](https://github.com/uoa-compsci399-2025-s1/capstone-project-2025-s1-team-17).
-- 💬 Ask me about who's winning the next NBA finals. 
+- 💬 Ask me what my chess elo is. 
 
 
 
