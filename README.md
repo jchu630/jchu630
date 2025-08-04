@@ -3,7 +3,7 @@
 I'm a recent Data Science graduate at the University of Auckland, and I'm immersed in the data and AI sphere. 
 
 - 🔭 I'm currently working on expanding my ML/AI portfolio, meanwhile leading initiatives to connect data science students with industry opportunities.
-- I've recently built **Echo**: an AI-powered social media simulation exploring digital echo chambers. Check it out [here](https://github.com/uoa-compsci399-2025-s1/capstone-project-2025-s1-team-17).
+- I've recently built **Echo** with the Runtime Terrors: an AI-powered social media simulation exploring digital echo chambers. Check it out [here](https://github.com/uoa-compsci399-2025-s1/capstone-project-2025-s1-team-17).
 - 💬 Ask me what my chess elo is. 
 
 
